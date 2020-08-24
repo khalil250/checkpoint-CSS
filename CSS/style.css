@@ -1,0 +1,44 @@
+body{
+  background-color: wheat;
+}
+
+h1{ 
+    font-family: fantasy;
+    font-weight: bold;
+    background-color: red;
+    color: burlywood;
+    text-align: center;
+    padding: .5em;
+    border: 5px double black
+}
+h1 + p{
+    font-weight: bold;
+    text-align: center;
+    font-size: 125%;
+}
+h2:hover{
+    font-size: 250%;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-size: 40px; 
+    color:tomato
+
+}
+.HCJ{
+    height: 450px;
+    width: 450px;
+    left: 225px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 100px;
+}
+p{
+    font-weight: bolder; 
+ font-size: 110%;
+ text-align: center;
+}
+
